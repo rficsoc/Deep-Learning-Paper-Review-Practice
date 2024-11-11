@@ -1,10 +1,10 @@
-### 꼼꼼한 딥러닝 논문 리뷰와 코드 실습: Deep Learning Paper Review and Practice
+### 細緻的深度學習論文審查與程式碼實踐: Deep Learning Paper Review and Practice
 
-* 꼼꼼한 딥러닝 논문 리뷰와 코드 실습을 위한 저장소입니다.
-* 최신 논문 위주로, 많은 인기를 끌고 있는 다양한 딥러닝 논문을 소개합니다.
-* 질문 사항은 본 저장소의 <b>[이슈(Issues)](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice/issues)</b> 탭에 남겨주세요.
+* 這是一個完整的深度學習論文評論和程式碼實踐的儲存庫。
+* 我們介紹各種熱門的深度學習論文，並專注於最新論文。
+* 如有疑問，請參閱此儲存庫。 <b>[問題(Issues)](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice/issues)</b>請將其留在選項卡上。
 
-#### Image Recognition (이미지 인식)
+#### Image Recognition (影像辨識)
 
 * End-to-End Object Detection with Transformers (ECCV 2020)
     * [Original Paper Link](https://arxiv.org/abs/2005.12872) / [Paper Review Video](https://www.youtube.com/watch?v=hCWUTvVrG7E) / [Summary PDF](/lecture_notes/DETR.pdf) / Code Practice
@@ -19,7 +19,7 @@
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (NIPS 2015)
     * [Original Paper Link](https://arxiv.org/abs/1506.01497) / Paper Review Video / [Summary PDF](/lecture_notes/Faster_R-CNN.pdf) / Code Practice
 
-#### Natural Language Processing (자연어 처리)
+#### Natural Language Processing (自然語言處理)
 
 * Single Headed Attention RNN: Stop Thinking With Your Head (2020)
     * [Original Paper Link](https://arxiv.org/abs/1911.11423) / Paper Review Video / Summary PDF / Code Practice
@@ -34,7 +34,7 @@
 * Sequence to Sequence Learning with Neural Networks (NIPS 2014)
     * [Original Paper Link](https://arxiv.org/abs/1409.3215) / [Paper Review Video](https://www.youtube.com/watch?v=4DzKM0vgG1Y) / [Summary PDF](/lecture_notes/Seq2Seq.pdf) / [Code Practice](/code_practices/Sequence_to_Sequence_with_LSTM_Tutorial.ipynb)
 
-#### Generative Model & Super Resolution (생성 모델 & 해상도 복원)
+#### Generative Model & Super Resolution (創建模型 & 恢復分辨率)
 
 * Meta-Transfer Learning for Zero-Shot Super-Resolution (CVPR 2020)
     * [Original Paper Link](https://arxiv.org/abs/2002.12213) / [Paper Review Video](https://www.youtube.com/watch?v=PUtFz4vqXHQ) / [Summary PDF](/lecture_notes/MZSR.pdf) / Code Practice
@@ -49,7 +49,7 @@
 * Generative Adversarial Nets (NIPS 2014)
     * [Original Paper Link](https://arxiv.org/abs/1406.2661) / [Paper Review Video](https://www.youtube.com/watch?v=AVvlDmhHgC4) / [Summary PDF](/lecture_notes/GAN.pdf) / [Code Practice](/code_practices/GAN_for_MNIST_Tutorial.ipynb)
 
-#### Modeling & Optimization (모델링 & 최적화)
+#### Modeling & Optimization (建模 & 最佳化)
 
 * Bag of Tricks for Image Classification (CVPR 2019)
     * [Original Paper Link](https://arxiv.org/abs/1812.01187) / Paper Review Video / [Summary PDF](/lecture_notes/Bag_of_Tricks_for_Image_Classification.pdf)
@@ -59,7 +59,7 @@
 * Batch normalization: Accelerating deep network training by reducing internal covariate shift (PMLR 2015)
     * [Original Paper Link](https://arxiv.org/abs/1502.03167) / [Paper Review Video](https://www.youtube.com/watch?v=58fuWVu5DVU) / [Summary PDF](/lecture_notes/Batch_Normalization.pdf) / [Code Practice](/code_practices/Batch_Normalization_Evaluation_(with_Residual_Connection).ipynb)
 
-#### Adversarial Examples & Backdoor Attacks (적대적 예제 & 백도어 공격)
+#### Adversarial Examples & Backdoor Attacks (對抗性範例 & 後門攻擊)
 
 * HopSkipJumpAttack: A Query-Efficient Decision-Based Attack (S&P 2020)
     * [Original Paper Link](https://arxiv.org/abs/1904.02144) / Paper Review Video/ Summary PDF / [Targeted Attack](/code_practices/Targeted_HopSkipJumpAttack_Using_CIFAR10.ipynb) / [Untargeted Attack](/code_practices/Untargeted_HopSkipJumpAttack_Using_CIFAR10.ipynb)
@@ -78,7 +78,7 @@
 * Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models (ICLR 2018)
     * [Original Paper Link](https://arxiv.org/abs/1712.04248) / [Paper Review Video](https://www.youtube.com/watch?v=3dX_SsO2mis) / [Summary PDF](/lecture_notes/Boundary_Attack.pdf) / Code Practice
 
-### 지난 논문 리뷰 콘텐츠
+### 往屆論文評審內容
 
 * Explaining and Harnessing Adversarial Examples (ICLR 2015)
     * [Original Paper Link](https://arxiv.org/abs/1412.6572) / [Paper Review Video](https://www.youtube.com/watch?v=99uxhAjNwps)
