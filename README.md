@@ -1,8 +1,7 @@
-### 細緻的深度學習論文審查與程式碼實踐: Deep Learning Paper Review and Practice
+### 論文審查與程式碼實踐: Deep Learning Paper Review and Practice
 
 * 這是一個完整的深度學習論文評論和程式碼實踐的儲存庫。
 * 我們介紹各種熱門的深度學習論文，並專注於最新論文。
-* 如有疑問，請參閱此儲存庫。 <b>[問題(Issues)](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice/issues)</b>請將其留在選項卡上。
 
 #### Image Recognition (影像辨識)
 
@@ -83,37 +82,53 @@
 #### Adversarial Examples & Backdoor Attacks (對抗性範例 & 後門攻擊)
 
 * HopSkipJumpAttack: A Query-Efficient Decision-Based Attack (S&P 2020)
+* HopSkipJumpAttack:基於查詢的高效決策攻擊
     * [Original Paper Link](https://arxiv.org/abs/1904.02144) / Paper Review Video/ Summary PDF / [Targeted Attack](/code_practices/Targeted_HopSkipJumpAttack_Using_CIFAR10.ipynb) / [Untargeted Attack](/code_practices/Untargeted_HopSkipJumpAttack_Using_CIFAR10.ipynb)
 * Breaking certified defenses: Semantic adversarial examples with spoofed robustness certificates (ICLR 2020)
+* 打破經過認證的防禦：具有欺騙性穩健性證書的語義對抗範例
     * [Original Paper Link](https://arxiv.org/abs/2003.08937) / [Paper Review Video](https://www.youtube.com/watch?v=D1j3QiXPRag) / [Summary PDF](/lecture_notes/Shadow_Attack.pdf) / [Code Practice](/code_practices/Shadow_Attack_Tutorial.ipynb)
 * Sign-OPT: A Query-Efficient Hard-label Adversarial Attack (ICLR 2020)
+* Sign-OPT：查詢高效率的硬標籤對抗攻擊
     * [Original Paper Link](https://arxiv.org/abs/1909.10773) / Paper Review Video / Summary PDF / [MNIST](/code_practices/Sign_OPT_Attack_for_MNIST.ipynb) / [CIFAR-10](/code_practices/Sign_OPT_Attack_for_CIFAR_10.ipynb)
 * Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment (AAAI 2020 Oral)
+* BERT:Robust？自然語言攻擊文本分類與蘊涵的強大基線
     * [Original Paper Link](https://arxiv.org/abs/1907.11932) / [Paper Review Video](https://www.youtube.com/watch?v=EF-IYFTKZiE) / [Summary PDF](/lecture_notes/TextFooler.pdf) / [Code Practice](/code_practices/TextFooler_Tutorial.ipynb)
 * Query-Efficient Hard-label Black-box Attack: An Optimization-based Approach (ICLR 2019)
+* 查詢高效的硬標籤黑盒攻擊:最佳化的方法
     * [Original Paper Link](https://arxiv.org/abs/1807.04457) / Paper Review Video / [Summary PDF](/lecture_notes/OPT_Attack.pdf) / [MNIST](/code_practices/Opt_Attack_for_MNIST.ipynb) / [CIFAR-10](/code_practices/Opt_Attack_for_CIFAR_10.ipynb)
 * Boosting Adversarial Attacks with Momentum (CVPR 2018 Spotlight)
+* 對抗性攻擊:增強
     * [Original Paper Link](https://arxiv.org/abs/1710.06081) / Paper Review Video / [Summary PDF](/lecture_notes/Boosting_Adversarial_Attacks_with_Momentum.pdf) / [CIFAR-10](/code_practices/MI_FGSM_Attack_for_CIFAR_10.ipynb) / [ImageNet](/code_practices/MI_FGSM_Attack_for_ImageNet.ipynb)
 * Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks (NIPS 2018)
+* 毒蛙:神經網路的清潔標籤中毒攻擊
     * [Original Paper Link](https://arxiv.org/abs/1804.00792) / Paper Review Video / [Summary PDF](/lecture_notes/Poison_Frogs.pdf) / [ResNet](/code_practices/One_Shot_Kill_Poison_Attack_ResNet.ipynb) / [AlexNet](/code_practices/One_Shot_Kill_Poison_Attack_AlexNet.ipynb)
 * Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models (ICLR 2018)
+* 決策的對抗性攻擊:針對黑盒機器學習模型的可靠攻擊
     * [Original Paper Link](https://arxiv.org/abs/1712.04248) / [Paper Review Video](https://www.youtube.com/watch?v=3dX_SsO2mis) / [Summary PDF](/lecture_notes/Boundary_Attack.pdf) / Code Practice
 
-### 往屆論文評審內容
+### 往屆論文
 
 * Explaining and Harnessing Adversarial Examples (ICLR 2015)
+* 對抗性:解釋
     * [Original Paper Link](https://arxiv.org/abs/1412.6572) / [Paper Review Video](https://www.youtube.com/watch?v=99uxhAjNwps)
 * Towards Evaluating the Robustness of Neural Networks (S&P 2017)
+* 評估穩健性:神經網路
     * [Original Paper Link](https://arxiv.org/abs/1608.04644) / [Paper Review Video](https://www.youtube.com/watch?v=9kRWHKPyfwQ)
 * Towards Deep Learning Models Resistant to Adversarial Attacks (ICLR 2018)
+* 深度學習模式:抵抗對抗性攻擊
     * [Original Paper Link](https://arxiv.org/abs/1706.06083) / [Paper Review Video](https://www.youtube.com/watch?v=6RBpdAC9nwY)
 * Adversarial Examples Are Not Bugs, They Are Features (NIPS 2019)
+* 對抗性例子不是錯誤:是特徵
     * [Original Paper Link](https://arxiv.org/abs/1905.02175) / [Paper Review Video](https://www.youtube.com/watch?v=Y7O47Kq8pmU)
 * Certified Robustness to Adversarial Examples with Differential Privacy (S&P 2019)
+* 穩健性:差異隱私的對抗性
     * [Original Paper Link](https://arxiv.org/abs/1802.03471) / [Paper Review Video](https://www.youtube.com/watch?v=ySJUlEVlXfk)
 * Obfuscated Gradients Give a False Sense of Security (ICML 2018)
+* 模糊:錯誤的安全感
     * [Original Paper Link](https://arxiv.org/abs/1802.00420) / [Paper Review Video](https://www.youtube.com/watch?v=0O_Bxln9bTw)
 * Constructing Unrestricted Adversarial Examples with Generative Models (NIPS 2018)
+* 對抗性範例:使用生成模型建立
     * [Original Paper Link](https://arxiv.org/abs/1805.07894) / [Paper Review Video](https://www.youtube.com/watch?v=IDtaVjJoV4g)
 * Adversarial Patch (NIPS 2018)
+* 補丁:對抗性
     * [Original Paper Link](https://arxiv.org/abs/1712.09665) / [Paper Review Video](https://www.youtube.com/watch?v=pOlPlTCfCQE)
