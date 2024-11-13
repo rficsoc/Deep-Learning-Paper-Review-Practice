@@ -49,16 +49,22 @@
 #### Generative Model & Super Resolution (創建模型 & 恢復分辨率)
 
 * Meta-Transfer Learning for Zero-Shot Super-Resolution (CVPR 2020)
+* 零樣本超解析度:元遷移學習
     * [Original Paper Link](https://arxiv.org/abs/2002.12213) / [Paper Review Video](https://www.youtube.com/watch?v=PUtFz4vqXHQ) / [Summary PDF](/lecture_notes/MZSR.pdf) / Code Practice
 * SinGAN: Learning a Generative Model from a Single Natural Image (ICCV 2019)
+* SinGAN:從單一自然影像學習生成模型
     * [Original Paper Link](https://arxiv.org/abs/1905.01164) / Paper Review Video / Summary PDF / Code Practice
 * A Style-Based Generator Architecture for Generative Adversarial Networks (CVPR 2019)
+* 產生對抗網路:基於樣式的生成器架構
     * [Original Paper Link](https://arxiv.org/abs/1812.04948) / Paper Review Video / [Summary PDF](/lecture_notes/StyleGAN.pdf) / Code Practice
 * StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (CVPR 2018 Oral)
+* StarGAN：用於多域圖像到圖像翻譯的統一生成對抗網絡
     * [Original Paper Link](https://arxiv.org/abs/1711.09020) / [Paper Review Video](https://www.youtube.com/watch?v=-r9M4Cj9o_8) / [Summary PDF](/lecture_notes/StarGAN.pdf) / [Code Practice](/code_practices/StarGAN_Tutorial.ipynb)
 * Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017)
+* 圖圖翻譯:條件對抗網路進行
     * [Original Paper Link](https://arxiv.org/abs/1611.07004) / [Paper Review Video](https://www.youtube.com/watch?v=ImiD4npRj7k) / [Summary PDF](/lecture_notes/Pix2Pix.pdf) / [Code Practice](/code_practices/Pix2Pix_for_Facades.ipynb)
 * Generative Adversarial Nets (NIPS 2014)
+* 生成對抗網路
     * [Original Paper Link](https://arxiv.org/abs/1406.2661) / [Paper Review Video](https://www.youtube.com/watch?v=AVvlDmhHgC4) / [Summary PDF](/lecture_notes/GAN.pdf) / [Code Practice](/code_practices/GAN_for_MNIST_Tutorial.ipynb)
 
 #### Modeling & Optimization (建模 & 最佳化)
