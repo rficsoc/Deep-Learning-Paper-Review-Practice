@@ -7,37 +7,43 @@
 #### Image Recognition (影像辨識)
 
 * End-to-End Object Detection with Transformers (ECCV 2020)
-* 使用 Transformer 進行端對端物件偵測
+* Transformer:進行端對端物件偵測
     * [Original Paper Link](https://arxiv.org/abs/2005.12872) / [Paper Review Video](https://www.youtube.com/watch?v=hCWUTvVrG7E) / [Summary PDF](/lecture_notes/DETR.pdf) / Code Practice
 * Searching for MobileNetV3 (ICCV 2019)
-* 搜尋 MobileNetV3
+* MobileNetV3:搜尋 
     * [Original Paper Link](https://arxiv.org/abs/1905.02244) / Paper Review Video / Summary PDF / Code Practice
 * Deep Residual Learning for Image Recognition (CVPR 2016)
-* 用於影像辨識的深度殘差學習
+* 影像辨識:深度殘差學習
     * [Original Paper Link](https://arxiv.org/abs/1512.03385) / [Paper Review Video](https://www.youtube.com/watch?v=671BsKl8d0E) / [Summary PDF](/lecture_notes/ResNet.pdf) / [MNIST](/code_practices/ResNet18_MNIST_Train.ipynb) / [CIFAR-10](/code_practices/ResNet18_CIFAR10_Train.ipynb) / [ImageNet](/code_practices/Pretrained_ResNet18_ImageNet_Test.ipynb)
 * Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization (ICCV 2017)
-* 即時風格轉換透過歸一實現
+* 即時風格轉換:透過歸一化實現
     * [Original Paper Link](https://arxiv.org/abs/1703.06868) / [Paper Review Video](https://www.youtube.com/watch?v=OM-6zYYRYfg) / [Summary PDF](/lecture_notes/AdaIN_Style_Transfer.pdf) / [Code Practice](/code_practices/AdaIN_Style_Transfer_Tutorial.ipynb)
 * Image Style Transfer Using Convolutional Neural Networks (CVPR 2016)
-* 使用CNN進行影像風格遷移
+* CNN:影像風格遷移
     * [Original Paper Link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) / [Paper Review Video](https://www.youtube.com/watch?v=va3e2c4uKJk) / [Summary PDF](/lecture_notes/Style%20Transfer.pdf) / [Code Practice](/code_practices/Style_Transfer_Tutorial.ipynb)
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (NIPS 2015)Faster R-CNN：
-* 透過區域提議網路實現即時目標偵測
+* R-CNN:透過區域提議網路實現即時目標偵測
     * [Original Paper Link](https://arxiv.org/abs/1506.01497) / Paper Review Video / [Summary PDF](/lecture_notes/Faster_R-CNN.pdf) / Code Practice
 
 #### Natural Language Processing (自然語言處理)
 
 * Single Headed Attention RNN: Stop Thinking With Your Head (2020)
+* 單頭注意力RNN:停止用心思思考
     * [Original Paper Link](https://arxiv.org/abs/1911.11423) / Paper Review Video / Summary PDF / Code Practice
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019)
+* BERT:用於語言理解的深度雙向T的預訓練
     * [Original Paper Link](https://arxiv.org/abs/1810.04805) / Paper Review Video / Summary PDF / Code Practice
 * Attention is All You Need (NIPS 2017)
+* 關注力:就是你所需要的
     * [Original Paper Link](https://arxiv.org/abs/1706.03762) / [Paper Review Video](https://www.youtube.com/watch?v=AA621UofTUA) / [Summary PDF](/lecture_notes/Transformer.pdf) / [Code Practice](/code_practices/Attention_is_All_You_Need_Tutorial_(German_English).ipynb)
 * Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015 Oral)
+* 翻譯:聯合學習對齊和翻譯進行神經機器翻譯
     * [Original Paper Link](https://arxiv.org/abs/1409.0473) / Paper Review Video / Summary PDF / [Code Practice](/code_practices/Sequence_to_Sequence_with_Attention_Tutorial.ipynb)
 * Show and Tell: A Neural Image Caption Generator (CVPR 2015)
+* 字幕產生器:展示
     * [Original Paper Link](https://arxiv.org/abs/1411.4555) / Paper Review Video / Summary PDF / [Code Practice](/code_practices/Neural_Image_Captioning_(NIC)_Using_ResNet_101.ipynb)
 * Sequence to Sequence Learning with Neural Networks (NIPS 2014)
+* 序列學習:使用神經網路
     * [Original Paper Link](https://arxiv.org/abs/1409.3215) / [Paper Review Video](https://www.youtube.com/watch?v=4DzKM0vgG1Y) / [Summary PDF](/lecture_notes/Seq2Seq.pdf) / [Code Practice](/code_practices/Sequence_to_Sequence_with_LSTM_Tutorial.ipynb)
 
 #### Generative Model & Super Resolution (創建模型 & 恢復分辨率)
