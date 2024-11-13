@@ -28,16 +28,22 @@
 #### Natural Language Processing (自然語言處理)
 
 * Single Headed Attention RNN: Stop Thinking With Your Head (2020)
+* 單頭注意力 RNN:停止用心思思考
     * [Original Paper Link](https://arxiv.org/abs/1911.11423) / Paper Review Video / Summary PDF / Code Practice
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019)
+* BERT:用於語言理解的深度雙向T的預訓練
     * [Original Paper Link](https://arxiv.org/abs/1810.04805) / Paper Review Video / Summary PDF / Code Practice
 * Attention is All You Need (NIPS 2017)
+* 關注力:就是你所需要的
     * [Original Paper Link](https://arxiv.org/abs/1706.03762) / [Paper Review Video](https://www.youtube.com/watch?v=AA621UofTUA) / [Summary PDF](/lecture_notes/Transformer.pdf) / [Code Practice](/code_practices/Attention_is_All_You_Need_Tutorial_(German_English).ipynb)
 * Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015 Oral)
+* 翻譯:透過聯合學習對齊和翻譯進行神經機器翻譯
     * [Original Paper Link](https://arxiv.org/abs/1409.0473) / Paper Review Video / Summary PDF / [Code Practice](/code_practices/Sequence_to_Sequence_with_Attention_Tutorial.ipynb)
 * Show and Tell: A Neural Image Caption Generator (CVPR 2015)
+* 展示與講述:字幕產生器
     * [Original Paper Link](https://arxiv.org/abs/1411.4555) / Paper Review Video / Summary PDF / [Code Practice](/code_practices/Neural_Image_Captioning_(NIC)_Using_ResNet_101.ipynb)
 * Sequence to Sequence Learning with Neural Networks (NIPS 2014)
+* 序列學習:神經網路
     * [Original Paper Link](https://arxiv.org/abs/1409.3215) / [Paper Review Video](https://www.youtube.com/watch?v=4DzKM0vgG1Y) / [Summary PDF](/lecture_notes/Seq2Seq.pdf) / [Code Practice](/code_practices/Sequence_to_Sequence_with_LSTM_Tutorial.ipynb)
 
 #### Generative Model & Super Resolution (創建模型 & 恢復分辨率)
