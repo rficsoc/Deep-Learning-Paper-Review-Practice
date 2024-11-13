@@ -61,7 +61,7 @@
 * StarGAN：用於多域圖像到圖像翻譯的統一生成對抗網絡
     * [Original Paper Link](https://arxiv.org/abs/1711.09020) / [Paper Review Video](https://www.youtube.com/watch?v=-r9M4Cj9o_8) / [Summary PDF](/lecture_notes/StarGAN.pdf) / [Code Practice](/code_practices/StarGAN_Tutorial.ipynb)
 * Image-to-Image Translation with Conditional Adversarial Networks (CVPR 2017)
-* 圖圖翻譯:條件對抗網路進行
+* 圖圖翻譯:條件對抗網路
     * [Original Paper Link](https://arxiv.org/abs/1611.07004) / [Paper Review Video](https://www.youtube.com/watch?v=ImiD4npRj7k) / [Summary PDF](/lecture_notes/Pix2Pix.pdf) / [Code Practice](/code_practices/Pix2Pix_for_Facades.ipynb)
 * Generative Adversarial Nets (NIPS 2014)
 * 生成對抗網路
@@ -70,11 +70,14 @@
 #### Modeling & Optimization (建模 & 最佳化)
 
 * Bag of Tricks for Image Classification (CVPR 2019)
+* 影像分類:技巧
     * [Original Paper Link](https://arxiv.org/abs/1812.01187) / Paper Review Video / [Summary PDF](/lecture_notes/Bag_of_Tricks_for_Image_Classification.pdf)
     * [CIFAR-10](/code_practices/ResNet18_CIFAR10_Basic_Training.ipynb) / [CIFAR-10 with Label Smoothing](/code_practices/ResNet18_CIFAR10_Training_with_Label_Smoothing.ipynb) / [CIFAR-10 with Input Mixup](/code_practices/ResNet18_CIFAR10_Training_with_Input_Mixup.ipynb) / [CIFAR-10 with Label Smoothing and Input Mixup](/code_practices/ResNet18_CIFAR10_Training_with_Input_Mixup_and_Label_Smoothing.ipynb)
 * Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding (ICLR 2016 Oral)
+* 深度壓縮:深度神經網絡:透過剪枝、訓練量化和霍夫曼編碼
     * [Original Paper Link](https://arxiv.org/abs/1510.00149) / Paper Review Video / Summary PDF / Code Practice
 * Batch normalization: Accelerating deep network training by reducing internal covariate shift (PMLR 2015)
+* 批量歸一化：透過減少內部協變量偏移來加速深度網路訓練
     * [Original Paper Link](https://arxiv.org/abs/1502.03167) / [Paper Review Video](https://www.youtube.com/watch?v=58fuWVu5DVU) / [Summary PDF](/lecture_notes/Batch_Normalization.pdf) / [Code Practice](/code_practices/Batch_Normalization_Evaluation_(with_Residual_Connection).ipynb)
 
 #### Adversarial Examples & Backdoor Attacks (對抗性範例 & 後門攻擊)
